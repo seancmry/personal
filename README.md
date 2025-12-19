@@ -2,7 +2,7 @@
 Data Operations & Automation Engineer
 
 📍 Berlin  
-📄 [Download CV (PDF)](./Sean_Murray_CV.pdf)  
+📄 [Download CV (PDF)](https://github.com/seancmry/personal/blob/main/Sean_Murray.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sean-murray-b60613216/) | [GitHub](https://github.com/seancmry)
 
 ## Profile
