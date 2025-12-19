@@ -1,11 +1,9 @@
 # Sean Murray
-
-# Sean Murray
 Data Operations & Automation Engineer
 
 📍 Berlin  
 📄 [Download CV (PDF)](./Sean_Murray_CV.pdf)  
-🔗 [LinkedIn](...) | [GitHub](...)
+🔗 [LinkedIn](https://www.linkedin.com/in/sean-murray-b60613216/) | [GitHub](https://github.com/seancmry)
 
 ## Profile
 Data and operations specialist with experience delivering CRM migrations,
