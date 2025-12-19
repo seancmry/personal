@@ -42,6 +42,3 @@ enterprise environments.
 - **Automations**  
   → https://github.com/seancmry/automation
 
-- **Analytics & Dashboards**  
-  → https://github.com/seancmry/data_dashboards
-
